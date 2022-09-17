@@ -3,7 +3,7 @@
 
 [You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Notification to your whmcs users.](https://waclick.in/ "You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Notification to your whmcs users.")
 
-##  **Feture**
+##  Feature
 
 1. WHMCS Login Alert
 2. WHMCS Password Changed
