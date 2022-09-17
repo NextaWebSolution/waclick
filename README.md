@@ -21,7 +21,7 @@
 14. New Product Activation	
 15. Hosting Account Information	
 
-##  ** Change Log **
+##  Change Log
 
    Version 1.0
 1. WHMCS Login Alert
