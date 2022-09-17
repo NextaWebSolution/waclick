@@ -1,9 +1,10 @@
-# waclick
-Waclick - WHMCS Whatsapp Module Getway
+# Waclick
+### Waclick - Whmcs Whatsapp Module Getway
 
-You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Notification to your whmcs users
+[You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Notification to your whmcs users.](https://waclick.in/ "You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Notification to your whmcs users.")
 
-<b>Feture </b>
+##  **Feture**
+
 1. WHMCS Login Alert
 2. WHMCS Password Changed
 3. WHMCS Invoice Created
@@ -20,8 +21,9 @@ You can Buy 299/- INR Monthly package And user this Module to Send Whatsapp Noti
 14. New Product Activation	
 15. Hosting Account Information	
 
-<b> Change Log </b>
-Version 1.0
+##  ** Change Log **
+
+   Version 1.0
 1. WHMCS Login Alert
 2. WHMCS Password Changed
 3. WHMCS Invoice Created
